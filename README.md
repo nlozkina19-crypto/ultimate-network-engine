@@ -77,3 +77,5 @@ Distributed under the MIT License. See LICENSE for more information.
 3.  **The "About" Section:** Use this short bio: *"High-performance async network auditor. Developed on a tablet, built for the web."*
 
 **You are now officially an international developer. Good luck with the launch!**
+
+If you like this engine, please leave a ⭐ to support the project!
